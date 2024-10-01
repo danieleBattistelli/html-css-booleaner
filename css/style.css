@@ -1,6 +1,5 @@
 * {
     margin-right: 0;
-    padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     
@@ -19,7 +18,24 @@
 
 .main{
     font-size: 25px;
+   
 }
 .main h6{
     color: grey;
+}
+
+h6>span{
+    color: #0099ff;
+}
+
+div>h3{
+    font-size: 18px;
+}
+
+h3>span{
+    background-color: #ffff00;
+}
+
+div>ul{
+    font-size: 15px;
 }
